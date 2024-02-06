@@ -6,7 +6,7 @@ This project is a simulation of an Automated External Defibrillator (AED) interf
 
 ## Interface Demonstration
 
-![AED Simulation Interface](image.png)
+![image](https://github.com/dbkhanh/Automated-External-Defibrillators-Simulation/assets/107232612/1a205841-ba88-4ad6-b0d7-5d4562b2190b)
 
 The interface is divided into two main sections: the First Aider Point of View and the AED Interface.
 
