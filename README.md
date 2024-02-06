@@ -1,4 +1,4 @@
-# AED Simulation Interface Project
+# AED Simulation Project
 
 ## Overview
 
