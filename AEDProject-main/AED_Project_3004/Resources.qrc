@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/0.png</file>
+        <file>Images/1.png</file>
+        <file>Images/2.png</file>
+        <file>Images/3.png</file>
+        <file>Images/4.png</file>
+        <file>Images/5.png</file>
+        <file>Images/6.png</file>
+        <file>Images/7.png</file>
+        <file>Images/8.png</file>
+        <file>Images/flat.png</file>
+        <file>Images/norm.png</file>
+        <file>Images/vf.png</file>
+        <file>Images/vt.png</file>
+        <file>Images/battery_100.png</file>
+        <file>Images/battery_50.png</file>
+        <file>Images/battery_80.png</file>
+        <file>Images/battery_5.png</file>
+        <file>Images/battery_30.png</file>
+    </qresource>
+</RCC>
